@@ -32,7 +32,7 @@ My main research interests are in stellar populations, galaxies, and
 cosmology. I also enjoy working with data analysis and astronomical
 instrumentation.
 
-I have been fortunate to have been involved with work on the Hubble
+I was fortunate to have been involved with work on the Hubble
 Space Telescope: I was an associate member of the Instrument Definition
 Team for the original WF/PC camera, and a full member of the IDT for the
 WFPC2 camera. I was closely involved with the initial work on diagnosing
