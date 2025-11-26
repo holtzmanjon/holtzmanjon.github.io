@@ -23,8 +23,7 @@ against arbiratry galaxy backgrounds using data obtained from different telescop
 
 ##### Stellar populations in the Local Group
 
-<a href=http://astronomy.nmsu.edu/~holtz/dwarfs/dwarfs.htm>
-Resolved stellar populations photometry </a>: One of my primary interests is
+[Resolved stellar populations photometry](http://astronomy.nmsu.edu/holtz/dwarfs/dwarfs.htm): One of my primary interests is
 in studying stellar populations in the Local Group through photometry of
 individual stars. Much of this work was done using the Hubble
 Space Telescope. A large <a href=http://astronomy.nmsu.edu/logphot>
