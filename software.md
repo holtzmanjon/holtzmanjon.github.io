@@ -5,14 +5,14 @@ id : software
 
 ### Software
 
-[pyvista](http://github.com/holtzmanjon/pyvista)
+[pyvista](http://github.com/holtzmanjon/pyvista) : a Python package for analysis and reduction of astronomical data
 
-[holtztools](http://github.com/holtzmanjon/tools)
+[holtztools](http://github.com/holtzmanjon/tools) : some simple useful Python tools for plotting and a few other things
 
-[xvista](http://github.com/holtzmanjon/xvista)
+[xvista](http://github.com/holtzmanjon/xvista) : a software package, written largely in Fortran, for the reduction and analysis of astronomical data developed in the 1980s at the University of California, Santa Cruz. I ported it to Unix system and have been responsible for upkeep and worldwide distribution. There are still a handful of users!
+ 
+[APOsong](http://github.com/holtzmanjon/APOsong) : software for the Apache Point Observatory SONG node
 
-[APOsong](http://github.com/holtzmanjon/APOsong)
-
-[APOalpyca](http://github.com/holtzmanjon/APOalpyca)
+[APOalpyca](http://github.com/holtzmanjon/APOalpyca) : custom ASCOM Alpaca drivers for a few components of APO SONG
 
 
