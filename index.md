@@ -11,9 +11,7 @@ id : Home
 #  - dark-theme
 ---
 
-![logo](logo.png)
-
-<img src="images/holtz_whitesands.jpg" alt="holtz" width="75%"/> 
+<img src="images/holtz_whitesands.jpg" alt="holtz" width="50%"/> 
 
 
 Professor Emeritus, Department of Astronomy, New Mexico State University
