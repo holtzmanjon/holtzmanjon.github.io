@@ -15,16 +15,10 @@ id : Home
 
 
 Professor Emeritus, Department of Astronomy, New Mexico State University
-
-**Address**
-
 New Mexico State University\
 Box 30001 / MSC 4500\
 1320 Frenger Mall\
 Las Cruces NM 88003\
-
-**Phone**
-
 575-646-8181 (office)
 
 **Overview**
