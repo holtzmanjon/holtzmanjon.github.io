@@ -59,8 +59,8 @@ plugins:
 
 sidebar:
   - research
-  - advising
   - teaching
+  - advising
   - telescopes
   - software
   - darksky
