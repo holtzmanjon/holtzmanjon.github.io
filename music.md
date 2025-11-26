@@ -18,4 +18,4 @@ Sullivan, and Pat Kirkham.
 
 In Las Cruces, I took mandolin lessons for several years with [Steve Smith](https://desertnight.com/), 
 and participated in several [Desert Nites mandolin camps](https://dnamusiccamp.com/home).
-
+I've also enjoyed playing music with my friend and colleague [Joe Burchett](https://www.joeburchett.com/).
