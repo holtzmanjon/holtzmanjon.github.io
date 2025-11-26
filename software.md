@@ -5,14 +5,14 @@ id : software
 
 ### Software
 
-[pyvista](github.com/holtzmanjon/pyvista)
+[pyvista](http://github.com/holtzmanjon/pyvista)
 
-[holtztools](github.com/holtzmanjon/holtztools)
+[holtztools](http://github.com/holtzmanjon/holtztools)
 
-[xvista](github.com/holtzmanjon/xvista)
+[xvista](http://github.com/holtzmanjon/xvista)
 
-[APOsong](github.com/holtzmanjon/APOsong)
+[APOsong](http://github.com/holtzmanjon/APOsong)
 
-[APOalpyca](github.com/holtzmanjon/APOalpyca
+[APOalpyca](http://github.com/holtzmanjon/APOalpyca
 
 
