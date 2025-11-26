@@ -5,5 +5,5 @@ id : darksky
 
 ### Dark Skies
 
-[New Mexico DarkSky](nmdarksky.org)
+[New Mexico DarkSky](http://nmdarksky.org)
 
