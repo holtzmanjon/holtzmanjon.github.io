@@ -29,7 +29,7 @@ Las Cruces NM 88003\
 
 **Overview**
 
-[Curriculum vitae](cv.pdf)
+[Curriculum vitae](vitae.pdf)
 
 - I grew up in Baltimore MD, received my B.A. and M.S. at Wesleyan
 University, and got my Ph.D. at the University of California, Santa Cruz.
