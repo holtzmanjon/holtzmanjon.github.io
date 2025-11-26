@@ -59,6 +59,9 @@ plugins:
 
 sidebar:
   - Home
+  - Research
+  - Teaching
+  - Other
   - About
 
 version: false

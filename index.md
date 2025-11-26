@@ -4,7 +4,7 @@
 
 #layout: home
 layout: default
-title : New Mexico DarkSky
+title : Jon Holtzman
 id : Home
 #classes : 
 #  - landing
@@ -15,40 +15,44 @@ id : Home
 
 <img src="images/elmorro.caption.jpeg" alt="elmorro" width="75%"/> 
 
-## Welcome to New Mexico DarkSky
 
-Founded in June 2023, we are a state chapter of [DarkSky International](https://darksky.org).
-All members of DarkSky International in the state of New Mexico are chapter members. The
-activities of the chapter are managed by the State Council of the organization.
+Professor Emeritus, Department of Astronomy, New Mexico State University
 
-**Vision**:
-*New Mexico DarkSky seeks to restore and preserve New Mexico’s
-ancestral heritage of majestic, star- filled skies and dark nighttime
-environments. We endeavor to eliminate light pollution throughout
-the State and protect all communities from its harmful effects,
-through advocacy, outreach, education, and conservation.*
+**Address**
 
-**Mission**: <i>The Organization will strive to:
-- <i>become the leading force for protecting New Mexico’s existing Dark Sky places and for eliminating light pollution throughout the State.</i>
-- <i>develop professional credibility with government, industry, and the public as the authoritative voice for outstanding, protective, and safe outdoor lighting policies.</i>
-- <i>bring the experience, expertise, and resources of DarkSky International to enhance and enrich our State-wide work.</i>
+New Mexico State University\
+Box 30001 / MSC 4500\
+1320 Frenger Mall\
+Las Cruces NM 88003\
 
-**How?** <i>Eliminating light pollution does not mean that we have to
-turn all of the lights off. It can be achieved through <b>responsible
-lighting</b> that follows some [basic principles](https://darksky.org/resources/guides-and-how-tos/lighting-principles/): use only as much
-light as is needed, direct it only to where it is needed, use it
-only when it is needed, and use redder light when possible. 
+**Phone**
 
-**Why?** <i>Responsible lighting can be safer, save energy and
-money, be healthier, have less adverse effect on wildlife, respect
-property rights, and enable greater human appreciation and scientific study of the night
-sky. Dark skies can also have a positive economic impact through
-astrotourism and attracting people to live in New Mexico. There
-really is no down side! See our handout on [values of responsible lighting](Values_of_Responsible_Lighting.pdf)</i>
+575-646-8181 (office)
 
+**Overview**
 
-[<B>Join</B>](https://darksky.org/ways-to-give/) us by becoming a DarkSky International member!
-<br>[<B>Donate</b>](https://act.darksky.org/newmexicodarksky) directly to the New Mexico chapter!
-<br>[<B>Email</b>](mailto:newmexico@darksky.org) us at <a href="mailto:newmexico@darksky.org"> newmexico@darksky.org
-<br> [Contact us](mailto:newmexico@darksky.org) to request our Protect the New Mexico DarkSky brochure!
-<br><a href="outreach/material/NM Protect the night brochure (5-2024).pdf"> <img src="outreach/material/cover.png" width="10%"> Click to see full brochure!</A>
+[Curriculum vitae](cv.pdf)
+
+- I grew up in Baltimore MD, received my B.A. and M.S. at Wesleyan
+University, and got my Ph.D. at the University of California, Santa Cruz.
+I spent six years working as a research associate at the Lowell Observatory
+in Flagstaff AZ before moving to New Mexico State University in 1995.
+- My main research interests are in stellar populations, galaxies, and
+cosmology. I also enjoy working with data analysis and astronomical
+instrumentation.
+- I have been fortunate to have been involved with work on the Hubble
+Space Telescope: I was an associate member of the Instrument Definition
+Team for the original WF/PC camera, and a full member of the IDT for the
+WFPC2 camera. I was closely involved with the initial work on diagnosing
+the optical problem with the telescope and determining how it could be
+corrected with new instruments.  I served on the Science Oversight Committee
+for the WFC3 camera that was installed in the HST in 2009.
+- I've also been fortunate to have been involved with projects at
+the <a href=http://www.apo.nmsu.edu> Apache Point Observatory </a>, as
+Project Scientist for the ARC 3.5m telescope, and through
+involvement with several <a href=http:/www.sdss.org> Sloan Digital
+Sky Survey </a> projects, most notably the Apache Point Observatory
+Galactic Evolution Experiment (APOGEE); I served as the Survey Scientist
+for the APOGEE-2 project of SDSS-IV, and am serving as Commissioning
+Scientist for SDSS-V. I also serve on the ARC Board of Governors.
+
