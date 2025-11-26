@@ -18,6 +18,6 @@ had some natural recruitment of Goodings willow in 2022, after we created severa
 It has been remarkable to see how the property has changed over a decade!
 
 Maintenance consists largely of hand removal of salt cedar sprouts and shrubs, and I believe I must be close to holding a world record for 
-number of salt cedar sprouts pulled!
+number of salt cedar sprouts pulled! We also cage trees for protection against beavers, which we have on the property!
 
 
