@@ -13,7 +13,7 @@ id : Home
 
 ![logo](logo.png)
 
-<img src="images/elmorro.caption.jpeg" alt="elmorro" width="75%"/> 
+<img src="images/holtz_whitesands.jpg" alt="holtz" width="75%"/> 
 
 
 Professor Emeritus, Department of Astronomy, New Mexico State University
