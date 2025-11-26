@@ -46,10 +46,10 @@ the optical problem with the telescope and determining how it could be
 corrected with new instruments.  I served on the Science Oversight Committee
 for the WFC3 camera that was installed in the HST in 2009.
 - I've also been fortunate to have been involved with projects at
-the <a href=http://www.apo.nmsu.edu> Apache Point Observatory </a>, as
+the [Apache Point Observatory](www.apo.nmsu.edu), as
 Project Scientist for the ARC 3.5m telescope, and through
-involvement with several <a href=http:/www.sdss.org> Sloan Digital
-Sky Survey </a> projects, most notably the Apache Point Observatory
+involvement with several [Sloan Digital Sky Survey](www.sdss.org)  
+projects, most notably the Apache Point Observatory
 Galactic Evolution Experiment (APOGEE); I served as the Survey Scientist
 for the APOGEE-2 project of SDSS-IV, and am serving as Commissioning
 Scientist for SDSS-V. I also serve on the ARC Board of Governors.
