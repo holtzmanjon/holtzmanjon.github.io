@@ -14,8 +14,8 @@ id : Home
 <img src="images/holtz_whitesands.jpg" alt="holtz" width="50%"/> 
 
 
-Professor Emeritus, Department of Astronomy\
-New Mexico State University\
+Professor Emeritus, [Department of Astronomy](http://astro.nmsu.edu)\
+[New Mexico State University](http://www.nmsu.edu)\
 Box 30001 / MSC 4500\
 1320 Frenger Mall\
 Las Cruces NM 88003\

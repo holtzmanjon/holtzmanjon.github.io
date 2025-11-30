@@ -14,7 +14,7 @@ Wimmer, and Tom Gherlein.  (I also played keyboards in a garage
 rock and roll band called Broken Hearts with Ezra Palmer, Ken
 Kimmell, Tom Parkinson, and Neil Richman).  While in Flagstaff, I
 played in the Out of the Woods bluegrass band with Bill Vernieu, Julie
-Sullivan, and Pat Kirkham.
+Sullivan, Maureen Smiley, and Pat Kirkham.
 
 In Las Cruces, I took mandolin lessons for several years with [Steve Smith](https://desertnight.com/), 
 and participated in several [Desert Nites mandolin camps](https://dnamusiccamp.com/home).
