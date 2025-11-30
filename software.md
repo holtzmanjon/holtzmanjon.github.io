@@ -8,7 +8,7 @@ id : software
 I've worked on a number of software projects over the years. I won't claim to any amazing programming competence, but some
 of these may be of utility to someone and are hosted on GitHub:
 
-[pyvista](https://pyvista.readthedocs.io/en/latest/)  ( [Github][(http://github.com/holtzmanjon/pyvista))  : a Python package for analysis and reduction of astronomical data. 
+[pyvista](https://pyvista.readthedocs.io/en/latest/)  ( [Github][(http://github.com/holtzmanjon/pyvista) )  : a Python package for analysis and reduction of astronomical data. 
 
 [holtztools](http://github.com/holtzmanjon/tools) : some simple useful Python tools for plotting and a few other things
 
