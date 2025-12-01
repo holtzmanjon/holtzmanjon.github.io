@@ -59,10 +59,10 @@ plugins:
 
 sidebar:
   - research
-  - teaching
-  - advising
   - telescopes
   - software
+  - teaching
+  - advising
   - darksky
   - restoration
   - music
