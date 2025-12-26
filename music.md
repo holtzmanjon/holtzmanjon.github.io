@@ -1,4 +1,5 @@
 ---
+layout : page
 title : Music
 id : music
 ---
