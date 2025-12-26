@@ -8,14 +8,12 @@ id : advising
 As a faculty member at New Mexico State University, I was fortunate to have worked with a number of students.
 
 ##### Ph.D Students
-Graduate students
 - Alexander Stone-Martinez, PhD, 2025, "Pushing the Boundaries of Stellar Age & Distance Estimation with Advanced Machine Learning Techniques"
-- Julie Imig, PhD, 2023, "A Galactic Self-Portrait: Chemical Cartography, Density Structure, and Integrated Properties of the Milky Way Disk"
+- Julie Imig, PhD, 2023, "A Galactic Self-Portrait: Chemical Cartography, Density Structure, and Integrated Properties of the Milky Way Disk", now at Space Telescope Science Institute
 - Drew Chojnowski, PhD, 2020, “H-Band Spectroscopy of Exotic Massive Stars”
 - [Sten Hasselquist](https://drstenhq.com/), PhD, 2018, “Chemical Abundances of the Milky Way and Sagittarius Using APOGEE”, now at Space Telescope Science Institute
 - [Diane Feuillet](https://www.uu.se/en/contact-and-organisation/staff?query=N24-1450), PhD, 2016, “Ages and Abundances of Local Galactic Stellar Populations”, now at Uppsala University
 - Teresa Ross, PhD, 2015 “Exploring stellar metallicities in dwarf galaxies and their implications”
-- Michael Hayden, 
 - [Michael Hayden](https://www.ou.edu/cas/physics-astronomy/people/directory/faculty/michael-hayden), PhD, 2015. “Chemical cartography of the Milky Way disk with the SDSS-III/APOGEE survey”, now at University of Oklahoma
 - Bhasker Moorthy, PhD, 2006, “Bulges of Spiral Galaxies: Stellar Populations, Structure, Kinematics, and Dynamics", now at Harper College
 - [Salman Hameed](https://www.hampshire.edu/academics/faculty/salman-hameed) PhD 2001 (coadvise), now at Hampshire College
