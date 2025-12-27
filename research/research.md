@@ -4,7 +4,7 @@ title : Research
 id : research
 ---
 
-### Research
+## Research
 
 [ADS Search for refereed articles](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=database%3A%20astronomy&fq_property=property%3A%20refereed&q=author%3A(%22Holtzman%2C%20J%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
@@ -12,14 +12,26 @@ id : research
 
 ##### Milky Way stellar populations
 
-![image](apj515238f4_lr.jpg){: style="float: left ; width: 30% ; padding: 15px"}
+![image](apj515238f4_lr.jpg){: style="float: right ; width: 30% ; padding: 15px"}
+The Apache Point Observatory Galactic Evolution Experiment (APOGEE) of the Sloan Digital Sky Survey has provided dramatic new
+views of Galactic stellar populations across the Milky Way, due to its ability to penetrate dust in the plane of the Galaxy using
+infrared light. The moderate high resolution spectroscopy allows measurements of the abundances of multiple chemical elements.
+Together, these enable **chemical cartography**.
 
-![image](ajaddd18f10_lr.jpg){: style="float: left ; width: 30% ; padding: 15px"}
+Some of the initial results show how the so-called "alpha bimodality" varies across the disk of the Milky Way, as shown in this
+pionering plot from Hayden et al.
 
-![image](apjace9b8f25_lr.jpg)
+Subsequent work at NMSU has focussed on deriving ages of red giant stars observed with APOGEE. This is enabled by the ability of
+APOGEE to measure carbon and nitrogen abundances; the C/N ratio varies with stellar mass due to variations in mixing and the amount 
+of CNO burning, and masses of red giants directly imply ages.
+
+![image](ajaddd18f10_lr.jpg){: style="float: left ; width: 30% ; padding: 15px"} Map of mean ages across the Milky Way from Stone-Martinez et al.
+
+![image](apjace9b8f25_lr.jpg) The [alpha/Fe] vs [Fe/H] relation encoded by stellar age.
 
 ![image](ajaddd18f13_lr.jpg)
 
+##### Other SDSS projects
 
 I've been involved in several aspects of the Sloan Digital Sky Survey:
    - I was closely involved with the development of the APOGEE project, which
@@ -33,14 +45,14 @@ against arbiratry galaxy backgrounds using data obtained from different telescop
 
 ### Stellar populations in the Local Group
 
-One of my primary interests is
-in studying stellar populations in the Local Group through photometry of
-individual stars. Much of this work was done using the Hubble
-Space Telescope. A large <a href="http://astronomy.nmsu.edu/logphot">
-stellar photometry archive </a> been constructed from all photometry
-done by the WFPC2 in the Local Group. I also worked on a project
-to study the star formation history of the solar neighborhood by
-incorporating detailed chemical abundance measurements.
+One of my primary interests is in studying stellar populations in
+the Local Group through photometry of individual stars. Much of
+this work was done using the Hubble Space Telescope. A large <a
+href="http://astronomy.nmsu.edu/logphot"> stellar photometry archive
+</a> been constructed from all photometry done by the WFPC2 in the
+Local Group. I also worked on a project to study the star formation
+history of the solar neighborhood by incorporating detailed chemical
+abundance measurements.
 
 ###  External galaxies
 
