@@ -14,7 +14,7 @@ id : research
 
 ![image](apjace9b8f25_lr.jpg)
 
-![image](/ajaddd18f13_lr.jpg)
+![image](ajaddd18f13_lr.jpg)
 
 ##### Sloan Digital Sky Survey
 
@@ -52,6 +52,8 @@ properties of galaxies as a function of their environment.
 young, compact, massive star clusters. This was motivated by our initial
 discovery of a population of bright blue clusters in NGC 1275 that helped
 to spark the development of this field.
+
+![image](NGC1275.jpeg)
 
 ##### Cosmology
 
