@@ -18,8 +18,7 @@ deeply involved in the diagnosis of the optical spherical aberration
 present in the telescope, as well as with its correction in the
 Wide Field Planetary Camera 2.
 
-<IMG SRC="hstspher.jpg" WIDTH="50%">
-
+![image](hstspher.jpg){: style="float: left ; width: 30% ; padding: 15px"}
 The top panel is a montage of images taken with the WF/PC on the
 HST shortly after launch in 1990 at a wide range of positions of
 the HST secondary mirror that provided a coarse focus run. The
