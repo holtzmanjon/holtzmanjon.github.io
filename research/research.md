@@ -55,6 +55,8 @@ young, compact, massive star clusters. This was motivated by our initial
 discovery of a population of bright blue clusters in NGC 1275 that helped
 to spark the development of this field.
 
+[NASA article](https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-discovers-young-star-clusters-in-giant-galaxy/)
+
 ![image](NGC1275.jpeg){: style="float: left ; width: 30% ; padding: 15px"}
 
 ##### Cosmology
