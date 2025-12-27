@@ -46,7 +46,7 @@ against arbiratry galaxy backgrounds using data obtained from different telescop
 
 ### Stellar populations in the Local Group
 
-### Star formation histories of Local Group galaxies
+##### Star formation histories of Local Group galaxies
 
 One of my primary interests is in studying stellar populations in
 the Local Group through photometry of individual stars. Much of
@@ -57,7 +57,7 @@ Local Group. I also worked on a project to study the star formation
 history of the solar neighborhood by incorporating detailed chemical
 abundance measurements.
 
-### Metallicity distribution functions in Local Group dwarfs
+##### Metallicity distribution functions in Local Group dwarfs
 
 ###  External galaxies
 
