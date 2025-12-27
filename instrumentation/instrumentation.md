@@ -38,6 +38,33 @@ happy ending!
 
 ##### Tortugas Mt. Observatory
 
+<H2> Tortugas Mt Observatory </H2>
+
+The Tortugas Mt. Observatory is located just east of Las Cruces, and
+houses a 24-inch Boller and Chivens telescope (for some more information on
+B&C telescopes, see [bollerandchivens.com](http://bollerandchivens.com
+The telescope was built
+in the late 1960's and used extensively up until the early 90's, mostly
+for planetary monitoring. After that time, the telescope fell into 
+disuse, perhaps because the NMSU Department of Astronomy started to
+operate the Apache Point Observatory, which is home to a set of significantly
+larger telescopes.
+
+Starting in 2010, NMSU entered into a MOU with the 
+[American Association of Variable Star Observers](http://www.aavso.org) to get the telescope
+back into operation again. This involved significant technical upgrades
+to the telescope, but the process went well.
+
+Since the renovation, the telescope has been used for remote open houses,
+observing for undergraduate classes, and by the [Summer Science Program](http://www.ssp.org)
+since they started an astronomy program at NMSU in 2023.
+
+[NMSU article about the telescope renovation](tortugasmountainobservat.html)
+
+[Video of NMSU Engineering staff and students about the renovation project]("http://Renovation video.mp4")
+
+
+
 [NMSU Tortugas Mt. 24"](http://astronomy.nmsu.edu/tmo-wiki) 
 
 ##### SONG at Apache Point Observatory
