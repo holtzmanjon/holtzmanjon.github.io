@@ -12,7 +12,7 @@ id : research
 
 ##### Milky Way stellar populations
 
-![image](apj515238f4_lr.jpg){: style="float: right ; width: 30% ; padding: 15px"}
+![image](apj515238f4_lr.jpg){: style="float: right ; width: 50% ; padding: 15px"}
 The Apache Point Observatory Galactic Evolution Experiment (APOGEE) of the Sloan Digital Sky Survey has provided dramatic new
 views of Galactic stellar populations across the Milky Way, due to its ability to penetrate dust in the plane of the Galaxy using
 infrared light. The moderate high resolution spectroscopy allows measurements of the abundances of multiple chemical elements.
@@ -25,7 +25,7 @@ Subsequent work at NMSU has focussed on deriving ages of red giant stars observe
 APOGEE to measure carbon and nitrogen abundances; the C/N ratio varies with stellar mass due to variations in mixing and the amount 
 of CNO burning, and masses of red giants directly imply ages.
 
-![image](ajaddd18f10_lr.jpg){: style="float: left ; width: 30% ; padding: 15px"} 
+![image](ajaddd18f10_lr.jpg){: style="float: left ; width: 50% ; padding: 15px"} 
 Map of mean ages across the Milky Way from Stone-Martinez et al.
 
 <br><br><br><br><br><br><br>
