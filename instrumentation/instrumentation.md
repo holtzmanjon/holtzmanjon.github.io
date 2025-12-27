@@ -33,6 +33,8 @@ to diagnose the issue, was a tremendous experience that has stuck
 with me to the current day. And, of course, the HST story has a
 happy ending!
 
+<p>
+
 
 ##### Tortugas Mt. Observatory
 
