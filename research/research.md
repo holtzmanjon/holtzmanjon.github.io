@@ -31,7 +31,7 @@ against arbiratry galaxy backgrounds using data obtained from different telescop
 [Resolved stellar populations photometry](http://astronomy.nmsu.edu/holtz/dwarfs/dwarfs.htm): One of my primary interests is
 in studying stellar populations in the Local Group through photometry of
 individual stars. Much of this work was done using the Hubble
-Space Telescope. A large <a href=http://astronomy.nmsu.edu/logphot>
+Space Telescope. A large <a href="http://astronomy.nmsu.edu/logphot">
 stellar photometry archive </a> been constructed from all photometry
 done by the WFPC2 in the Local Group. I'm also working on a project
 to study the star formation history of the solar neighborhood by
