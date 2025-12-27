@@ -20,31 +20,39 @@ Las Cruces NM 88003\
 
 [Curriculum vitae](vitae.pdf)
 
-I grew up in Baltimore MD, received my B.A. and M.S. in Astronomy at Wesleyan
-University, and got my Ph.D. in Astronomy and Astrophysics at the University of California, Santa Cruz.
-I spent six years working as a research associate at the Lowell Observatory
-in Flagstaff AZ before moving to New Mexico State University in 1995. I
-formally retired in 2024, but continue to be active in several areas.
+I grew up in Baltimore MD, received my B.A. and M.S. in Astronomy
+at Wesleyan University, and got my Ph.D. in Astronomy and Astrophysics
+at the University of California, Santa Cruz.  I spent six years
+working as a research associate at the Lowell Observatory in Flagstaff
+AZ before moving to New Mexico State University as a faculty member
+in 1995. I formally retired as a full Professor in 2024, but continue
+to be active in several areas, and maintain emeritus status.
 
-In the field of astronomy, I have interests in the fields of stars, stellar populations, the structure of galaxies, and cosmology.
-I also enjoy working with data analysis and astronomical instrumentation and software.
+In the field of astronomy, I have interests in the fields of stars,
+stellar populations, the structure of galaxies, and cosmology.  I
+also enjoy working with data analysis and astronomical instrumentation
+and software.
 
-I have been fortunate to have been involved with projects at
-the [Apache Point Observatory](http://www.apo.nmsu.edu), as
-Project Scientist for the ARC 3.5m telescope, and through
-involvement with several [Sloan Digital Sky Survey](http://www.sdss.org) projects, most notably the Apache Point Observatory
-Galactic Evolution Experiment (APOGEE); I served as the Survey Scientist
-for the APOGEE-2 project of SDSS-IV and as Commissioning
-Scientist for SDSS-V. I serve on the ARC Board of Governors as
-one of the NMSU Board representatives.
+I have been fortunate to have been involved with projects at the
+[Apache Point Observatory](http://www.apo.nmsu.edu), as Project
+Scientist for the ARC 3.5m telescope, and through involvement with
+several [Sloan Digital Sky Survey](http://www.sdss.org) projects,
+most notably the Apache Point Observatory Galactic Evolution
+Experiment (APOGEE); I served as the Survey Scientist for the
+APOGEE-2 project of SDSS-IV and as Commissioning Scientist for
+SDSS-V. I serve on the ARC Board of Governors as one of the NMSU
+Board representatives.
 
 I was also fortunate to have been involved with work on the Hubble
-Space Telescope: I was an associate member of the Instrument Definition
-Team for the original WF/PC camera, and a full member of the IDT for the
-WFPC2 camera. I was closely involved with the initial work on diagnosing
-the optical problem with the telescope and determining how it could be
-corrected with new instruments.  I served on the Science Oversight Committee
-for the WFC3 camera that was installed in the HST in 2009.
+Space Telescope: I was an associate member of the Instrument
+Definition Team for the original WF/PC camera, and a full member
+of the IDT for the WFPC2 camera. I was closely involved with the
+initial work on diagnosing the optical problem with the telescope
+and determining how it could be corrected with new instruments.  I
+served on the Science Oversight Committee for the WFC3 camera that
+was installed in the HST in 2009.
 
 Outside of astronomy-related things, I enjoy the outdoors and music.
+
+I'm always open to new possibilities!
 

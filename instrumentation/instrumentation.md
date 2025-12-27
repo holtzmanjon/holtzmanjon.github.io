@@ -4,9 +4,9 @@ title : Instrumentation
 id : instrumentation
 ---
 
-### Instrumentation
+## Instrumentation
 
-##### Hubble Space Telescope
+### Hubble Space Telescope
 
 I had originally planned to develop a dissertation using data from the Hubble Space Telescope. However, the Challenger disaster in 1987 put an 
 end to those plans. Still, half of my dissertation was on developing methodology for doing stellar photometry on undersampled images. 
@@ -40,9 +40,7 @@ importance of speaking up when something doesn't seem right!
 <br><br><br><br><br><br><br><br>
 
 
-##### Tortugas Mt. Observatory
-
-<H2> Tortugas Mt Observatory </H2>
+### Tortugas Mt. Observatory
 
 The Tortugas Mt. Observatory is located just east of Las Cruces, and
 houses a 24-inch Boller and Chivens telescope (for some more information on
@@ -69,7 +67,7 @@ since they started an astronomy program at NMSU in 2023.
 
 [NMSU Tortugas Mt. 24" wiki](http://astronomy.nmsu.edu/tmo-wiki) 
 
-##### SONG at Apache Point Observatory
+### SONG at Apache Point Observatory
 
 ![image](box3.jpg){: style="float: right ; width: 50% ; padding: 15px"}
 NMSU was funded by the National Science Foundation to build a [SONG
@@ -92,7 +90,7 @@ construction in New Mexico (near operational status!)  and in China.
 
 <br><br><br><br><br>
 
-##### Apache Point Observatory
+### Apache Point Observatory
 
 [Apache Point Observatory (APO)](http://www.apo.nmsu.edu). NMSU has
 a 15% share of the 3.5m telescope. I have served as the Project
@@ -103,7 +101,7 @@ Echelle Spectrograph. I've also developed software for reducing
 data from all of the 3.5m instruments, and am working on getting
 reduction for these instruments implemented into PypeIt.
 
-##### NMSU 1m
+### NMSU 1m
 
 Before SONG, NMSU operated another 1m telescope at APO. I spent a
 large amount of time getting this telescope to work! I had it
@@ -112,7 +110,7 @@ instrument; it was used for photometric monitoring of various
 variable stars, supernovae followup, etc.
 
 
-##### Heliostat at Sunspot Solar Observatory Visitors Center
+### Heliostat at Sunspot Solar Observatory Visitors Center
 
 A fun project since retirement has been to get the heliostat located
 outside the Visitor's Center functional again. This feeds a display
