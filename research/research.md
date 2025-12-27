@@ -12,7 +12,11 @@ id : research
 
 ##### Milky Way stellar populations
 
+<!--
 ![image](apj515238f4_lr.jpg){: style="float: right ; width: 50% ; padding: 15px"}
+-->
+
+[!image](apj515238f4_lr.jpg){: style="float: right ; width: 50% ; padding: 15px"}](apj515238f4_lr.jpg)
 The Apache Point Observatory Galactic Evolution Experiment (APOGEE) of the Sloan Digital Sky Survey has provided dramatic new
 views of Galactic stellar populations across the Milky Way, due to its ability to penetrate dust in the plane of the Galaxy using
 infrared light. The moderate high resolution spectroscopy allows measurements of the abundances of multiple chemical elements.
