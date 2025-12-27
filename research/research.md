@@ -32,12 +32,12 @@ against arbiratry galaxy backgrounds using data obtained from different telescop
 
 ##### Stellar populations in the Local Group
 
-[Resolved stellar populations photometry](http://astronomy.nmsu.edu/holtz/dwarfs/dwarfs.htm): One of my primary interests is
+One of my primary interests is
 in studying stellar populations in the Local Group through photometry of
 individual stars. Much of this work was done using the Hubble
 Space Telescope. A large <a href="http://astronomy.nmsu.edu/logphot">
 stellar photometry archive </a> been constructed from all photometry
-done by the WFPC2 in the Local Group. I'm also working on a project
+done by the WFPC2 in the Local Group. I also worked on a project
 to study the star formation history of the solar neighborhood by
 incorporating detailed chemical abundance measurements.
 
@@ -45,7 +45,7 @@ incorporating detailed chemical abundance measurements.
 
 I am interested in structural properties of galaxies,
 in particular disk galaxies and the nature of bulges; I've been involved
-in both photometric and spectroscopic studies. I've also been studying
+in both photometric and spectroscopic studies. I've also studied
 properties of galaxies as a function of their environment.
 
 ##### Star clusters
@@ -58,6 +58,7 @@ to spark the development of this field.
 [NASA article](https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-discovers-young-star-clusters-in-giant-galaxy/)
 
 ![image](NGC1275.jpeg){: style="float: left ; width: 30% ; padding: 15px"}
+<br><br><br><br><br><br><br>
 
 ##### Cosmology
 
