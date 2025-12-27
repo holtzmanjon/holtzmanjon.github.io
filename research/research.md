@@ -14,6 +14,8 @@ id : research
 
 ![image](apjace9b8f25_lr.jpg)
 
+![image](/ajaddd18f13_lr.jpg)
+
 ##### Sloan Digital Sky Survey
 
 I've been involved in several aspects of the Sloan Digital Sky Survey:
