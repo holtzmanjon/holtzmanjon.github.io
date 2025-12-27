@@ -45,6 +45,12 @@ happy ending!
 ![image](box3.jpg){: style="float: right ; width: 50% ; padding: 15px"}
 NMSU was funded by the National Science Foundation to build a [SONG node at APO](astronomy.nmsu.edu/song-wiki). We purchased a Planewave 1m telescope and constructed a high resolution, fiber-fed spectrograph based off an existing design. I have developed a full suite of software to allow robotic operation of the facility and coordination with the SONG network.
 
+[SONG](https://phys.au.dk/song/) is an international project led by Aarhus University in Denmark to study stars, predominantly through the 
+measurment of stellar osciallations via spectroscopy. Given the low amplitude of oscillation signatures, observations over a long period of 
+time are required, and minimizing aliasing from daily observing windows is important. As a result, the SONG project is trying to establish a
+world-wide network to enable quasi-continuous observations. The first node was constructed in Tenerife, Spain, with a second node at Mt. Kent
+in Australia. New nodes are under construction in New Mexico (near operational status!)  and in China.
+
 <br><br><br><br><br><br><br><br>
 
 ##### Apache Point Observatory
