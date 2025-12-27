@@ -65,6 +65,8 @@ since they started an astronomy program at NMSU in 2023.
 
 [Video of NMSU Engineering staff and students about the renovation project](Renovation video.mp4)
 
+[2008 photos of the observatory](https://astronomy.nmsu.edu/holtz/tortugas-mt/)
+
 [NMSU Tortugas Mt. 24" wiki](http://astronomy.nmsu.edu/tmo-wiki) 
 
 ### SONG at Apache Point Observatory
