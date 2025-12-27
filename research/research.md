@@ -74,7 +74,7 @@ with the Hubble Space Telescope WF/PC, even with its aberrated images.
 
 [NASA article from 1992](https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-discovers-young-star-clusters-in-giant-galaxy/)
 
-<br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ### Cosmology
 
