@@ -43,9 +43,10 @@ of APOGEE;
 developed techniques for the consistent measurement of SN brightnesses
 against arbiratry galaxy backgrounds using data obtained from different telescopes
 
-### Metallicity distribution functions in Local Group dwarfs
 
 ### Stellar populations in the Local Group
+
+### Star formation histories of Local Group galaxies
 
 One of my primary interests is in studying stellar populations in
 the Local Group through photometry of individual stars. Much of
@@ -55,6 +56,8 @@ href="http://astronomy.nmsu.edu/logphot"> stellar photometry archive
 Local Group. I also worked on a project to study the star formation
 history of the solar neighborhood by incorporating detailed chemical
 abundance measurements.
+
+### Metallicity distribution functions in Local Group dwarfs
 
 ###  External galaxies
 
