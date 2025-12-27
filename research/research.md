@@ -10,6 +10,8 @@ id : research
 
 ##### Milky Way stellar populations
 
+![image](apj515238f4_lr.jpg){: style="float: left ; width: 30% ; padding: 15px"}
+
 ![image](ajaddd18f10_lr.jpg){: style="float: left ; width: 30% ; padding: 15px"}
 
 ![image](apjace9b8f25_lr.jpg)
