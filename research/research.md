@@ -25,11 +25,13 @@ Subsequent work at NMSU has focussed on deriving ages of red giant stars observe
 APOGEE to measure carbon and nitrogen abundances; the C/N ratio varies with stellar mass due to variations in mixing and the amount 
 of CNO burning, and masses of red giants directly imply ages.
 
-![image](ajaddd18f10_lr.jpg){: style="float: left ; width: 30% ; padding: 15px"} Map of mean ages across the Milky Way from Stone-Martinez et al.
+![image](ajaddd18f10_lr.jpg){: style="float: left ; width: 30% ; padding: 15px"} 
+Map of mean ages across the Milky Way from Stone-Martinez et al.
 
-![image](apjace9b8f25_lr.jpg) The [alpha/Fe] vs [Fe/H] relation encoded by stellar age.
+<br><br><br><br><br><br><br>
 
-![image](ajaddd18f13_lr.jpg)
+Mpas of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from Stone-Martinez et al and Imig et al:
+![image](apjace9b8f25_lr.jpg) ![image](ajaddd18f13_lr.jpg)
 
 ##### Other SDSS projects
 
