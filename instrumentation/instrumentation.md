@@ -38,20 +38,21 @@ happy ending!
 
 ##### Tortugas Mt. Observatory
 
-[NMSU Tortugas Mt. 24"](astronomy.nmsu.edu/tmo-wiki) 
+[NMSU Tortugas Mt. 24"](http://astronomy.nmsu.edu/tmo-wiki) 
 
 ##### SONG at Apache Point Observatory
 
-![image](box3.jpg){: style="float: right ; width: 30% ; padding: 15px"}
+![image](box3.jpg){: style="float: right ; width: 50% ; padding: 15px"}
 NMSU was funded by the National Science Foundation to build a [SONG node at APO](astronomy.nmsu.edu/song-wiki). We purchased a Planewave 1m telescope and constructed a high resolution, fiber-fed spectrograph based off an existing design. I have developed a full suite of software to allow robotic operation of the facility and coordination with the SONG network.
 
 <br><br><br><br><br><br><br><br>
 
 ##### Apache Point Observatory
 
-[Apache Point Observatory (APO)](www.apo.nmsu.edu). NMSU has a
- 15% share of the 3.5m telescope. I have served as the Project
- Scientist for the 3.5m.
+[Apache Point Observatory (APO)](http://www.apo.nmsu.edu). NMSU has a 15% share of the 3.5m telescope. I have served as the Project Scientist for the 3.5m.
+I helped with projects involving construction of a slit viewing camera for the (now retired) Double Imaging Spectrograph, and on getting a
+replacement grating for the ARC Echelle Spectrograph. I've also developed software for reducing data from all of the 3.5m instruments, and
+am working on getting reduction for these instruments implemented into PypeIt.
 
 ##### NMSU 1m
 
@@ -64,7 +65,3 @@ monitoring of various variable stars, supernovae followup, etc.
 ##### Heliostat at Sunspot Solar Observatory Visitors Center
 
 A fun project since retirement has been to get the heliostat located outside the Visitor's Center functional again. This feeds a display inside that projects an image of the Sun on a physical screen, and also makes a visual image of the solar spectrum that visitors can explore by moving to see different parts of the spectrum .... including a lot of absorption lines!
-[
-
-
-
