@@ -72,7 +72,7 @@ since they started an astronomy program at NMSU in 2023.
 
 ### SONG at Apache Point Observatory
 
-[![image](box3.jpg){: style="float: right ; width: 50% ; padding: 15px"}](box3.jpg)
+[![image](box3.jpg){: style="float: left ; width: 50% ; padding: 15px"}](box3.jpg)
 NMSU was funded by the National Science Foundation to build a [SONG
 node at APO](astronomy.nmsu.edu/song-wiki). We purchased a Planewave
 1m telescope and constructed a high resolution, fiber-fed spectrograph
