@@ -37,7 +37,7 @@ The experience taught me a lot about optics and the importance of
 understanding how the tools of a trade work. It also taught me the
 importance of speaking up when something doesn't seem right!
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 
 ### Tortugas Mt. Observatory
@@ -91,7 +91,7 @@ observations. The first node was constructed in Tenerife, Spain,
 with a second node at Mt. Kent in Australia. New nodes are under
 construction in New Mexico (near operational status!)  and in China.
 
-<br><br><br><br><br>
+<br><br>
 
 ### Apache Point Observatory
 
