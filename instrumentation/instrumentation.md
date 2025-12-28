@@ -105,7 +105,7 @@ Echelle Spectrograph. I've also developed software for reducing
 data from all of the 3.5m instruments, and am working on getting
 reduction for these instruments implemented into PypeIt.
 
-### NMSU 1m
+##### NMSU 1m
 
 Before SONG, NMSU operated another 1m telescope at APO. I spent a
 large amount of time getting this telescope to work! I had it
