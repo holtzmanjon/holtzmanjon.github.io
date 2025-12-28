@@ -25,17 +25,20 @@ Together, these enable **chemical cartography**.
 Some of the initial results show how the so-called "alpha bimodality" varies across the disk of the Milky Way, as shown in this
 pionering plot from Hayden et al.
 
+
+[![image](ajaddd18f10_lr.jpg){: style="float: left ; width: 50% ; padding: 15px"} ](ajaddd18f10_lr.jpg)
+Subsequent work at NMSU has focussed on deriving ages of red giant stars observed with APOGEE. This is enabled by the ability of
+APOGEE to measure carbon and nitrogen abundances; the C/N ratio varies with stellar mass due to variations in mixing and the amount 
+of CNO burning, and masses of red giants directly imply ages. The figure to the left is a 
+map of mean ages across the Milky Way from Stone-Martinez et al.
+
 Subsequent work at NMSU has focussed on deriving ages of red giant stars observed with APOGEE. This is enabled by the ability of
 APOGEE to measure carbon and nitrogen abundances; the C/N ratio varies with stellar mass due to variations in mixing and the amount 
 of CNO burning, and masses of red giants directly imply ages.
 
-![image](ajaddd18f10_lr.jpg){: style="float: left ; width: 50% ; padding: 15px"} 
-Map of mean ages across the Milky Way from Stone-Martinez et al.
-
-<br><br><br><br><br><br><br>
-
-Mpas of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from Stone-Martinez et al and Imig et al:
-![image](apjace9b8f25_lr.jpg) ![image](ajaddd18f13_lr.jpg)
+Maps of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from Stone-Martinez et al and Imig et al:
+[![image](apjace9b8f25_lr.jpg) ](apjace9b8f25_lr.jpg)
+[![image](ajaddd18f13_lr.jpg)](ajaddd18f13_lr.jpg)
 
 ##### Other SDSS projects
 
