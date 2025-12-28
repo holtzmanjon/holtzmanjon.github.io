@@ -16,8 +16,8 @@ a number of cottonwood and Goodings willow trees, that have grown to 30-40 feet 
 baccharis, salt grass, alkali acatom, arroweedm, yerba mansa, among others. On the swamp side, tree planting was largely unsuccessful, but we
 had some natural recruitment of Goodings willow in 2022, after we created several ponds by excavation.
 
-[!image](original.jpg){: style="float: left ; width: 30% ; padding: 15px"}
-[!image](youngtrees.jpg){: style="float: right ; width: 30% ; padding: 15px"}
+![image](original.jpg){: style="float: left ; width: 40% ; padding: 15px"}
+![image](youngtrees.jpg){: style="float: right ; width: 40% ; padding: 15px"}
 
 It has been remarkable to see how the property has changed over a decade!
 
