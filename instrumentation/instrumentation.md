@@ -18,7 +18,7 @@ deeply involved in the diagnosis of the optical spherical aberration
 present in the telescope, as well as with its correction in the
 Wide Field Planetary Camera 2.
 
-![image](hstspher.jpg){: style="float: left ; width: 30% ; padding: 15px"}
+[![image](hstspher.jpg){: style="float: left ; width: 30% ; padding: 15px"}](hstspher.jpg)
 The top panel is a montage of images taken with the WF/PC on the
 HST shortly after launch in 1990 at a wide range of positions of
 the HST secondary mirror that provided a coarse focus run. The
@@ -42,6 +42,7 @@ importance of speaking up when something doesn't seem right!
 
 ### Tortugas Mt. Observatory
 
+[![image](tmo.jpg){: style="float: right ; width: 50% ; padding: 15px"}](tmo.jpg)
 The Tortugas Mt. Observatory is located just east of Las Cruces, and
 houses a 24-inch Boller and Chivens telescope (for some more information on
 B&C telescopes, see [bollerandchivens.com](http://bollerandchivens.com
@@ -71,7 +72,7 @@ since they started an astronomy program at NMSU in 2023.
 
 ### SONG at Apache Point Observatory
 
-![image](box3.jpg){: style="float: right ; width: 50% ; padding: 15px"}
+[![image](box3.jpg){: style="float: right ; width: 50% ; padding: 15px"}](box3.jpg)
 NMSU was funded by the National Science Foundation to build a [SONG
 node at APO](astronomy.nmsu.edu/song-wiki). We purchased a Planewave
 1m telescope and constructed a high resolution, fiber-fed spectrograph
@@ -94,6 +95,7 @@ construction in New Mexico (near operational status!)  and in China.
 
 ### Apache Point Observatory
 
+[![image](apo2.jpg){: style="float: right ; width: 50% ; padding: 15px"}](apo2.jpg)
 [Apache Point Observatory (APO)](http://www.apo.nmsu.edu). NMSU has
 a 15% share of the 3.5m telescope. I have served as the Project
 Scientist for the 3.5m.  I helped with projects involving construction
