@@ -12,3 +12,7 @@ change and the need to address it.
 
 [Rio Grande Waves](http://riograndewaves.github.io) is a group based in Las Cruces that is concerned with water issues, in particular,
 in the lower Rio Grande.
+
+I have volunteered with [New Mexico Wild](nmwild.org), a group that works to preserve wilderness and public lands, doing both projects and as part of their Wilderness Defender program.
+
+I have done volunteer trail work in the White Mountains Wilderness in New Mexico as part of the Smoky Bear Trail Crew.
