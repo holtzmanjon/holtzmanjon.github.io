@@ -34,8 +34,8 @@ of CNO burning, and masses of red giants directly imply ages.
 
 Maps of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from [Stone-Martinez et al 2025]() and 
 [Imig et al 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...954..124I/abstract):
-[![image](apjace9b8f25_hr.jpg) ](apjace9b8f25_hr.jpg)
-[![image](ajaddd18f13_hr.jpg)](ajaddd18f13_hr.jpg)
+[![image](apjace9b8f25_hr.jpg) {: style="float: left ; width: 40% ; padding: 15px"} ](apjace9b8f25_hr.jpg)
+[![image](ajaddd18f13_hr.jpg)]{: style="float: right ; width: 40% ; padding: 15px"} (ajaddd18f13_hr.jpg)
 
 ##### Other SDSS projects
 
