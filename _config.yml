@@ -31,7 +31,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #theme: minima
 #remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #remote_theme: "poole/lanyon"
-remote_theme: "zendesk/jekyll-theme-zendesk-garden@main"
+#remote_theme: "zendesk/jekyll-theme-zendesk-garden@main"
+remote_theme: BDHU/minimalist
 plugins:
   - jekyll-feed
   - jekyll-remote-theme 
