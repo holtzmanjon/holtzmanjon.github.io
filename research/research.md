@@ -40,13 +40,16 @@ Maps of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from [Stone-Mar
 ##### Other SDSS projects
 
 I've been involved in several aspects of the Sloan Digital Sky Survey:
-   - I was closely involved with the development of the APOGEE project, which
+
+   - I was closely involved with the development of reduction and analysis software for the APOGEE project, which
 obtained high resolution near-IR spectra of about 600,000 Milky Way stars. I served as the Survey Scientist for the SDSS-IV portion
-of APOGEE;
+of APOGEE. A description of much of the analysis techniques used can be found in the [SDSS DR17 data release paper](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...35A/abstract), [Jonsson et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....160..120J/abstract) and 
+[Holtzman et al (2018)](https://ui.adsabs.harvard.edu/abs/2018AJ....156..125H/abstract)
+
    - the SDSS-II supernova survey that was conducted 2005-2007; I
 developed techniques for the consistent measurement of SN brightnesses
 against arbiratry galaxy backgrounds using data obtained from different telescopes
-
+([Holtzman et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008AJ....136.2306H/abstract)
 
 ### Stellar populations in the Local Group
 
