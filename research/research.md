@@ -19,21 +19,22 @@ infrared light. The moderate high resolution spectroscopy allows measurements of
 Together, these enable **chemical cartography**.
 
 Some of the initial results show how the so-called "alpha bimodality" varies across the disk of the Milky Way, as shown in this
-pionering plot from Hayden et al.
+pionering plot from [Hayden et al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...808..132H/abstract)
 
 
 [![image](ajaddd18f10_hr.jpg){: style="float: left ; width: 50% ; padding: 15px"} ](ajaddd18f10_hr.jpg)
 Subsequent work at NMSU has focussed on deriving ages of red giant stars observed with APOGEE. This is enabled by the ability of
 APOGEE to measure carbon and nitrogen abundances; the C/N ratio varies with stellar mass due to variations in mixing and the amount 
 of CNO burning, and masses of red giants directly imply ages. The figure to the left is a 
-map of mean ages across the Milky Way from Stone-Martinez et al.
+map of mean ages across the Milky Way from [Stone-Martinez et al. 2025]()
 
 Subsequent work at NMSU has focussed on deriving ages of red giant stars observed with APOGEE. This is enabled by the ability of
 APOGEE to measure carbon and nitrogen abundances; the C/N ratio varies with stellar mass due to variations in mixing and the amount 
 of CNO burning, and masses of red giants directly imply ages.
 
-Maps of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from Stone-Martinez et al and Imig et al:
-[![image](apjace9b8f25_lr.jpg) ](apjace9b8f25_lr.jpg)
+Maps of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from [Stone-Martinez et al 2025]() and 
+[Imig et al 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...954..124I/abstract):
+[![image](apjace9b8f25_hr.jpg) ](apjace9b8f25_hr.jpg)
 [![image](ajaddd18f13_hr.jpg)](ajaddd18f13_hr.jpg)
 
 ##### Other SDSS projects
