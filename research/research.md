@@ -12,7 +12,7 @@ id : research
 
 ##### Milky Way stellar populations
 
-[![image](apj515238f4_lr.jpg){: style="float: right ; width: 50% ; padding: 15px"}](apj515238f4_lr.jpg)
+[![image](apj515238f4_hr.jpg){: style="float: right ; width: 50% ; padding: 15px"}](apj515238f4_hr.jpg)
 The Apache Point Observatory Galactic Evolution Experiment (APOGEE) of the Sloan Digital Sky Survey has provided dramatic new
 views of Galactic stellar populations across the Milky Way, due to its ability to penetrate dust in the plane of the Galaxy using
 infrared light. The moderate high resolution spectroscopy allows measurements of the abundances of multiple chemical elements.
@@ -22,7 +22,7 @@ Some of the initial results show how the so-called "alpha bimodality" varies acr
 pionering plot from Hayden et al.
 
 
-[![image](ajaddd18f10_lr.jpg){: style="float: left ; width: 50% ; padding: 15px"} ](ajaddd18f10_lr.jpg)
+[![image](ajaddd18f10_hr.jpg){: style="float: left ; width: 50% ; padding: 15px"} ](ajaddd18f10_hr.jpg)
 Subsequent work at NMSU has focussed on deriving ages of red giant stars observed with APOGEE. This is enabled by the ability of
 APOGEE to measure carbon and nitrogen abundances; the C/N ratio varies with stellar mass due to variations in mixing and the amount 
 of CNO burning, and masses of red giants directly imply ages. The figure to the left is a 
@@ -34,7 +34,7 @@ of CNO burning, and masses of red giants directly imply ages.
 
 Maps of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from Stone-Martinez et al and Imig et al:
 [![image](apjace9b8f25_lr.jpg) ](apjace9b8f25_lr.jpg)
-[![image](ajaddd18f13_lr.jpg)](ajaddd18f13_lr.jpg)
+[![image](ajaddd18f13_hr.jpg)](ajaddd18f13_hr.jpg)
 
 ##### Other SDSS projects
 
