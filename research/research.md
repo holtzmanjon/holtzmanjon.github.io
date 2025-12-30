@@ -37,7 +37,7 @@ Maps of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from [Stone-Mar
 [![image](apjace9b8f25_hr.jpg){: style="float: left ; width: 40% ; padding: 15px"}](apjace9b8f25_hr.jpg)
 [![image](ajaddd18f13_hr.jpg){: style="float: right ; width: 40% ; padding: 15px"}](ajaddd18f13_hr.jpg)
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ##### Other SDSS projects
 
@@ -61,12 +61,21 @@ One of my primary interests is in studying stellar populations in
 the Local Group through photometry of individual stars. Much of
 this work was done using the Hubble Space Telescope. A large <a
 href="http://astronomy.nmsu.edu/logphot"> stellar photometry archive
-</a> been constructed from all photometry done by the WFPC2 in the
-Local Group. I also worked on a project to study the star formation
+</a> [(Holtzman, Afonso, \& Dolphin 2006(https://ui.adsabs.harvard.edu/abs/2006ApJS..166..534H/abstract)]been constructed from all photometry done by the WFPC2 in the
+Local Group. [Weisz et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..147W/abstract)
+(also [Weisz et al (2014b)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract) and
+[Weisz et al (2014c)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract)]
+used this to derive star formation histories of Local Group galaxies.
+I also worked on a project to study the star formation
 history of the solar neighborhood by incorporating detailed chemical
 abundance measurements.
 
 ##### Metallicity distribution functions in Local Group dwarfs
+
+[Ross et al (2015)](https://ui.adsabs.harvard.edu/abs/2015AJ....149..198R/abstract)
+used HST photometry through a set of metallicity-sensitive filters to
+derive metallicity distribution functions in the  Leo I, Leo II, IC 1613, and Phoenix
+local group dwarfs.
 
 ###  External galaxies
 
