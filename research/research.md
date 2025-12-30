@@ -60,15 +60,13 @@ against arbiratry galaxy backgrounds using data obtained from different telescop
 One of my primary interests is in studying stellar populations in
 the Local Group through photometry of individual stars. Much of
 this work was done using the Hubble Space Telescope. A large <a
-href="http://astronomy.nmsu.edu/logphot"> stellar photometry archive
-</a> [(Holtzman, Afonso, \& Dolphin 2006(https://ui.adsabs.harvard.edu/abs/2006ApJS..166..534H/abstract)]been constructed from all photometry done by the WFPC2 in the
-Local Group. [Weisz et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..147W/abstract)
+href="http://astronomy.nmsu.edu/logphot"> stellar photometry archive </a>
+was constructed from all photometry done by the WFPC2 in the
+Local Group [(Holtzman, Afonso, & Dolphin 2006)](https://ui.adsabs.harvard.edu/abs/2006ApJS..166..534H/abstract).
+[Weisz et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..147W/abstract)
 (also [Weisz et al (2014b)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract) and
 [Weisz et al (2014c)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract)]
 used this to derive star formation histories of Local Group galaxies.
-I also worked on a project to study the star formation
-history of the solar neighborhood by incorporating detailed chemical
-abundance measurements.
 
 ##### Metallicity distribution functions in Local Group dwarfs
 
