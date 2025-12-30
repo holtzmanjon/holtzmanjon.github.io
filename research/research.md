@@ -65,7 +65,7 @@ was constructed from all photometry done by the WFPC2 in the
 Local Group [(Holtzman, Afonso, & Dolphin 2006)](https://ui.adsabs.harvard.edu/abs/2006ApJS..166..534H/abstract).
 [Weisz et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..147W/abstract)
 (also [Weisz et al (2014b)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract) and
-[Weisz et al (2014c)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract)]
+[Weisz et al (2014c)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract))
 used this to derive star formation histories of Local Group galaxies.
 
 ##### Metallicity distribution functions in Local Group dwarfs
@@ -99,8 +99,8 @@ with the Hubble Space Telescope WF/PC, even with its aberrated images.
 
  For my dissertation, I did cosmological calculations using linear
 perturbation theory to calculate observational predictions for large scale
-structure and cosmic microwave background anisotropies. I still maintain
-a strong interest in understanding the interplay between cosmology and
+structure and cosmic microwave background anisotropies ([Holtzman 1989](https://ui.adsabs.harvard.edu/abs/1989ApJS...71....1H/abstract)).
+I still maintain a strong interest in understanding the interplay between cosmology and
 the formation and evolution of galaxies.
 
 
