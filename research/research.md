@@ -43,12 +43,12 @@ Maps of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from [Stone-Mar
 
 I've been involved in several aspects of the Sloan Digital Sky Survey:
 
-   - I was closely involved with the development of reduction and analysis software for the APOGEE project, which
+- Many different science projects, see a [list](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Holtzman%22)%20abs%3A(Sloan)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+- I was closely involved with the development of reduction and analysis software for the APOGEE project, which
 obtained high resolution near-IR spectra of about 600,000 Milky Way stars. I served as the Survey Scientist for the SDSS-IV portion
 of APOGEE. A description of much of the analysis techniques used can be found in the [SDSS DR17 data release paper](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...35A/abstract), [Jonsson et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....160..120J/abstract) and 
 [Holtzman et al (2018)](https://ui.adsabs.harvard.edu/abs/2018AJ....156..125H/abstract)
-
-   - the SDSS-II supernova survey that was conducted 2005-2007; I
+- the SDSS-II supernova survey that was conducted 2005-2007; I
 developed techniques for the consistent measurement of SN brightnesses
 against arbiratry galaxy backgrounds using data obtained from different telescopes
 ([Holtzman et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008AJ....136.2306H/abstract)
@@ -57,7 +57,7 @@ against arbiratry galaxy backgrounds using data obtained from different telescop
 
 ##### Star formation histories of Local Group galaxies
 
-One of my primary interests is in studying stellar populations in
+One of my primary interests has been in studying stellar populations in
 the Local Group through photometry of individual stars. Much of
 this work was done using the Hubble Space Telescope. A large <a
 href="http://astronomy.nmsu.edu/logphot"> stellar photometry archive </a>
@@ -100,6 +100,8 @@ with the Hubble Space Telescope WF/PC, even with its aberrated images.
  For my dissertation, I did cosmological calculations using linear
 perturbation theory to calculate observational predictions for large scale
 structure and cosmic microwave background anisotropies ([Holtzman 1989](https://ui.adsabs.harvard.edu/abs/1989ApJS...71....1H/abstract)).
+These calculations were used to interpret cosmic microwave background observations from COBE, but were soon superceded by much
+faster calculators.  Subsequent papers focussed  on models with a mix of cold and hot dark matter ().
 I still maintain a strong interest in understanding the interplay between cosmology and
 the formation and evolution of galaxies.
 
