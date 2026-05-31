@@ -43,7 +43,7 @@ Maps of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from [Stone-Mar
 
 I've been involved in several aspects of the Sloan Digital Sky Survey:
 
-- Many different science projects, see a [list](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Holtzman%22)%20abs%3A(Sloan)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+- Many different science projects, see a [list of papers](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Holtzman%22)%20abs%3A(Sloan)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 - I was closely involved with the development of reduction and analysis software for the APOGEE project, which
 obtained high resolution near-IR spectra of about 600,000 Milky Way stars. I served as the Survey Scientist for the SDSS-IV portion
 of APOGEE. A description of much of the analysis techniques used can be found in the [SDSS DR17 data release paper](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...35A/abstract), [Jonsson et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....160..120J/abstract) and 
@@ -81,6 +81,8 @@ I am interested in structural properties of galaxies,
 in particular disk galaxies and the nature of bulges; I've been involved
 in both photometric and spectroscopic studies. I've also studied
 properties of galaxies as a function of their environment.
+
+### HST/WFPC2 performance and calibration
 
 ### Star clusters
 
