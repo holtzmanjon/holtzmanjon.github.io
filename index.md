@@ -25,7 +25,8 @@ at Wesleyan University, and got my Ph.D. in Astronomy and Astrophysics
 at the University of California, Santa Cruz.  I spent six years
 working as a research associate at the Lowell Observatory in Flagstaff
 AZ before moving to New Mexico State University as a faculty member
-in 1995. I formally retired as a full Professor in 2024, but continue
+in 1995. I served as Department Head of Astronomy from 2011-2021.
+I formally retired as a full Professor in 2024, but continue
 to be active in several areas, and maintain emeritus status.
 
 In the field of astronomy, I have interests in the fields of stars,
