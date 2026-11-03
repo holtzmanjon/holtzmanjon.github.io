@@ -122,3 +122,5 @@ inside that projects an image of the Sun on a physical screen, and
 also makes a visual image of the solar spectrum that visitors can
 explore by moving to see different parts of the spectrum ....
 including a lot of absorption lines!
+
+For some documentation on the project, see the [reference Google document](https://docs.google.com/document/d/1akP99ZojjSPg3e-nlozFwFN6T_Z8PRZIJQW8T02cYKk) 
