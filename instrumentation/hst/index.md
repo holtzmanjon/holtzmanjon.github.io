@@ -189,9 +189,8 @@ Local Group stellar populations
 [Weisz et al (2014c)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract))
 used this to derive star formation histories of Local Group galaxies.
 
-
-
 #### WFC3
 
 I was a member of the Science Oversight
-Committee for the WFC3 that was installed into the HST in 2009.
+Committee for the WFC3, led by Bob O'Connell, that was installed into the HST in 2009.
+That had its own excitements, but those are perhaps another story.
