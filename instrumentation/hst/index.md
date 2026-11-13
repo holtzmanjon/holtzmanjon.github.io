@@ -10,8 +10,8 @@ that I could work on developing some techniques for analyzing Hubble
 images, which was just a couple of years away from launch at that
 time, and then apply these to early HST data obtained by the WF/PC
 Investigation Definition Team (IDT), to which Sandy became a member.
-I worked on developing routines for stellar photometry, which
-involved simulating HST images and then adapting Peter Stetson's
+I worked on developing [routines for stellar photometry](https://ui.adsabs.harvard.edu/abs/1990PASP..102..806H/abstract), 
+which involved simulating HST images and then adapting Peter Stetson's
 DAOPHOT program to provide optimal results when analyzing them.
 
 Unfortunately, working on early HST data for my dissertation was
