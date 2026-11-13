@@ -116,8 +116,9 @@ WF/PC central obscuration with a three-legged spider that moved around
 relative to the HST features depending on the location in the field
 of view.
 
-We prepared a mosaic of the coarse focus run images of a star, along with simulated
-images with spherical aberation at corresponding focus positions. These
+We prepared a mosaic of the coarse focus run images of a star (top panel
+of image to the left), along with simulated
+images with spherical aberation at corresponding focus positions (bottom panel). These
 were shown to project management at a meeting at GSFC on July 25. I believe
 that these were the final, absolutely convincing, evidence that convinced
 management that there was a severe, uncorrectable problem, and put all
