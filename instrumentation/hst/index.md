@@ -46,7 +46,7 @@ Optical Systems (HDOS). I didn't understand the details but they were
 having issues with getting their data to make sense and, after several
 weeks, the project was getting frustrated with little apparent progress.
 
-[![image](pc_images.pdf){: style="float: left ; width: 30% ; padding: 15px"}](pc_images.pdf)
+[![image](pc_images.png){: style="float: left ; width: 30% ; padding: 15px"}](pc_images.png)
 
 
 At this point, the project started to obtain more regular imaging data,
@@ -57,7 +57,7 @@ the mirror might get stuck far from the expected best focus position.
 All of the images showed a core-halo structure, with light spread over
 a large area, and multiple "tendrils" in the outer regions.
 
-[![image](wfc_images.pdf){: style="float: right ; width: 30% ; padding: 15px"}](wfc_images.pdf)
+[![image](wfc_images.png){: style="float: right ; width: 30% ; padding: 15px"}](wfc_images.png)
 
 At STScI, Chris Burrows was analyzing these images using a phase retrieval
 technique, and was convinced that there was a significant amount of
