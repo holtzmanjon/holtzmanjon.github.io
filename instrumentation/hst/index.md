@@ -1,3 +1,4 @@
+### The early days of the Hubble Space Telescope
 
 My involvement with HST began when I was a graduate student at the
 University of California, Santa Cruz. In 1985, after a couple of years of
@@ -101,7 +102,7 @@ WF/PC central obscuration with a three-legged spider that moved around
 relative to the HST features depending on the location in the field
 of view.
 
-[![image](hstspher.jpg){: style="float: left ; width: 30% ; padding: 15px"}](hstspher.jpg)
+[![image](../hstspher.jpg){: style="float: left ; width: 30% ; padding: 15px"}](hstspher.jpg)
 
 We prepared a mosaic of the coarse focus run images of a star, along with simulated
 images with spherical aberation at corresponding focus positions. These
