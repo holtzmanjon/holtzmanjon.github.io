@@ -8,8 +8,11 @@ id : instrumentation
 
 ### Hubble Space Telescope
 
-I had originally planned to develop a dissertation using data from the Hubble Space Telescope. However, the Challenger disaster in 1987 put an 
-end to those plans. Still, half of my dissertation was on developing methodology for doing stellar photometry on undersampled images. 
+I had originally planned to develop a dissertation using data from
+the Hubble Space Telescope. However, the Challenger disaster in
+1987 put an end to those plans. Still, half of my dissertation was
+on developing methodology for doing stellar photometry on undersampled
+images.
 
 I moved to Lowell Observatory to work with Bill Baum and Deidre
 Hunter as part of the WF/PC Instrument Definition Team. I spend a
@@ -36,6 +39,9 @@ happy ending!
 The experience taught me a lot about optics and the importance of
 understanding how the tools of a trade work. It also taught me the
 importance of speaking up when something doesn't seem right!
+
+You can find a little more detail about my involvement with HST
+[here](hst/).
 
 <br><br><br><br>
 
