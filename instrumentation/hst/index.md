@@ -53,9 +53,7 @@ weeks, the project was getting frustrated with little apparent progress.
 
 At this point, the project started to obtain more regular imaging data,
 putting stars in various field locations in the WF/PC, and taking some
-FOC data farther off axis. The engineers were reluctant to move the
-secondary mirror by a large amount, as that would carry the risk that
-the mirror might get stuck far from the expected best focus position.
+FOC data farther off axis. 
 All of the images showed a core-halo structure, with light spread over
 a large area, and multiple "tendrils" in the outer regions.
 
@@ -73,21 +71,23 @@ because it seemed to them indirect and not visually apparent. I
 think they did not fully understand Chris' analysis and were hoping
 that it somehow was not correct.
 
-Things continued for a few weeks. Some of the astronomers suggested that
-aberration diagnosis could be made by taking a wide "focus sweep", where
-different aberrations have very different characters when looked at
-through a range of different focal plane locations. Despite the reluctance
-of the engineers, this was finally agreed upon. My recollection, which
-may or may not be correct, was that in mid-June, the project asked the
-WF/PC team for a recommendation for what data to take next. I was
-the one who happened to be at GSFC at the time, and I said "let's
-do the coarse focus run", and they did it! This coming from someone
-just a year out of graduate school with little to no background in
-optics! It seemed a little crazy to me at the time that more optics
-experts -- who certainly existed! -- weren't weighing in, but perhaps
-they were too reluctant to highlight problems. I have to give special
-credit to Sandy here, who was never reluctant to wade in and learn
-when it was needed.
+Things continued for a few weeks. Some of the astronomers suggested
+that aberration diagnosis could be made by taking a wide "focus
+sweep", where different aberrations have very different characters
+when looked at through a range of different focal plane locations.
+The engineers were reluctant to move the secondary mirror by a large
+amount, as that would carry the risk that the mirror might get stuck
+far from the expected best focus position.  My recollection, which
+may or may not be accurate, was that in mid-June, the project asked
+the WF/PC team for a recommendation for what data to take next. I
+was the one who happened to be at GSFC at the time, and I said
+"let's do the coarse focus run", and they did it! This coming from
+someone just a year out of graduate school with little to no
+background in optics! It seemed a little crazy to me at the time
+that more optics experts -- who certainly existed! -- weren't
+weighing in, but perhaps they were too reluctant to highlight
+problems. I have to give special credit to Sandy here, who was never
+reluctant to wade in and learn when it was needed.
 
 To assess the coarse focus run images, Sandy and I prepared a whole
 bunch of simulated images, with various degrees of aberration (e.g.
