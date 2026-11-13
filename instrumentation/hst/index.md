@@ -173,10 +173,11 @@ I moved on to a faculty position at New Mexico State University,
 where I taught a course on Observational Techniques for many years.
 One of the lessons I took away from my HST experience was that I
 (and presumably others) had little to no eduction in optics during
-my astronomical education, so I always included a few weeks of basic
+my astronomical education, which seems a little crazy given the
+extent to which astronomy depends on optics!  As a result, I always included a few weeks of basic
 optics in my course (whether that is sufficient, I don't know, as
 students don't seem to absorb material that is not presented over
-an extended period of time).  The class where I I told the story
+an extended period of time).  The class where I told the story
 of the HST aberrations and lessons learned was always popular!
 
 I was involved with stellar population work in nearby Local Group galaxies 
