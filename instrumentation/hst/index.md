@@ -165,6 +165,10 @@ published in a pair of papers, [The Performance and Calibration of
 WFPC2 on the Hubble Space Telescope](https://ui.adsabs.harvard.edu/abs/1995PASP..107..156H/abstract) and
 [The Photometric Performance and Calibration of WFPC2](https://ui.adsabs.harvard.edu/abs/1995PASP..107.1065H/abstract). 
 
+I moved on to a faculty position at New Mexico State University, where I taught
+a class on Observational Techniques for many years. The class where I
+I told the story of the HST aberrations and lessons learned was always popular!
+
 I was involved with stellar population work in nearby Local Group galaxies 
 for several years, and generated a large archive of HST observations of
 Local Group stellar populations. 
