@@ -28,16 +28,16 @@ APOGEE to measure carbon and nitrogen abundances; the C/N ratio varies with stel
 of CNO burning, and masses of red giants directly imply ages. The figure to the left is a 
 map of mean ages across the Milky Way from [Stone-Martinez et al. 2025]()
 
-Subsequent work at NMSU has focussed on deriving ages of red giant stars observed with APOGEE. This is enabled by the ability of
-APOGEE to measure carbon and nitrogen abundances; the C/N ratio varies with stellar mass due to variations in mixing and the amount 
-of CNO burning, and masses of red giants directly imply ages.
-
 Maps of the [alpha/Fe] vs [Fe/H] relation encoded by stellar age from [Stone-Martinez et al 2025]() and 
 [Imig et al 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...954..124I/abstract):
 [![image](apjace9b8f25_hr.jpg){: style="float: left ; width: 40% ; padding: 15px"}](apjace9b8f25_hr.jpg)
 [![image](ajaddd18f13_hr.jpg){: style="float: right ; width: 40% ; padding: 15px"}](ajaddd18f13_hr.jpg)
 
 <br><br><br><br><br><br><br>
+
+SDSS/APOGEE has provided data that factored into multiple Ph.D. dissertations of NMSU students advised
+by me: Michael Hayden, Diane Feuillet, Sten Hasselquist, Drew Chojnowski, Julie Imig, and Alexander
+Stone-Martinez.
 
 ##### Other SDSS projects
 
@@ -46,7 +46,7 @@ I've been involved in several aspects of the Sloan Digital Sky Survey:
 - Many different science projects, see a [list of papers](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Holtzman%22)%20abs%3A(Sloan)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 - I was closely involved with the development of reduction and analysis software for the APOGEE project, which
 obtained high resolution near-IR spectra of about 600,000 Milky Way stars. I served as the Survey Scientist for the SDSS-IV portion
-of APOGEE. A description of much of the analysis techniques used can be found in the [SDSS DR17 data release paper](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...35A/abstract), [Jonsson et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....160..120J/abstract) and 
+of APOGEE. A description of many of the analysis techniques used can be found in the [SDSS DR17 data release paper](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...35A/abstract), [Jonsson et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....160..120J/abstract) and 
 [Holtzman et al (2018)](https://ui.adsabs.harvard.edu/abs/2018AJ....156..125H/abstract)
 - the SDSS-II supernova survey that was conducted 2005-2007; I
 developed techniques for the consistent measurement of SN brightnesses
@@ -91,7 +91,7 @@ local group dwarfs.
 
 I am interested in structural properties of galaxies, in particular
 disk galaxies and the nature of bulges, e.g.  [Moorthy et al
-2006](https://ui.adsabs.harvard.edu/abs/2006MNRAS.371..583M/abstract)
+2006](https://ui.adsabs.harvard.edu/abs/2006MNRAS.371..583M/abstract), 
 [Courteau et al
 2007](https://ui.adsabs.harvard.edu/abs/2007ApJ...655L..21C/abstract).
 I've been involved in both photometric and spectroscopic studies.
