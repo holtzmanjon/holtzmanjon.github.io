@@ -137,12 +137,12 @@ along with several papers discussing impact on sciend and early science results,
 A Progress Report](https://ui.adsabs.harvard.edu/abs/1991ApJ...369L..35H/abstract).
 
 A separate effort was also made to understand the source of the error,
-culminating in the Allen commission report, which discovered an error
-in the assembly of the reflective null corrector that was used to 
-shape the primary mirror. The investigative effort also demonstrations
-of multiple failures in management and reporting that led to the error
-going unreported, although there was ample evidence that there was a
-problem!
+culminating in the [Allen commission report](https://ntrs.nasa.gov/api/citations/19910003124/downloads/19910003124.pdf), 
+which uncovered an error in the assembly of the reflective null
+corrector that was used to shape the primary mirror. The investigative
+effort also demonstrates multiple failures in management and
+reporting that led to the error going unreported, although there
+was ample evidence that there was a problem!
 
 Of course, the story has a happy ending. HST was always intended to be
 servicable, and in 1993, an aberrated WFPC2 was installed, where its aberration
