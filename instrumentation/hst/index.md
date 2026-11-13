@@ -90,7 +90,8 @@ credit to Sandy here, who was never reluctant to wade in and learn
 when it was needed.
 
 To assess the coarse focus run images, Sandy and I prepared a whole
-bunch of simulated images, with various degrees of aberration. My recollection
+bunch of simulated images, with various degrees of aberration (e.g.
+[no spherical](coarse_sph0.png) and [0.5 waves spherical](coarse_sph5.png). My recollection
 is that we simulated focus runs with a range of different amounts of 
 spherical aberration and different amounts of coma. We printed the
 images, and laid them out in a grid on a large conference room table at Bowie
