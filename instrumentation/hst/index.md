@@ -9,7 +9,7 @@ was super fortunate that Sandy Faber reached out to me and suggested
 that I could work on developing some techniques for analyzing Hubble
 images, which was just a couple of years away from launch at that
 time, and then apply these to early HST data obtained by the WF/PC
-Investigation Definition Team (IDT), to which Sandy became a member.
+Investigation Definition Team (IDT), of which Sandy became a member.
 I worked on developing [routines for stellar photometry](https://ui.adsabs.harvard.edu/abs/1990PASP..102..806H/abstract), 
 which involved simulating HST images and then adapting Peter Stetson's
 DAOPHOT program to provide optimal results when analyzing them.
@@ -32,14 +32,14 @@ Shortly after launch, I took up temporary residence in Bowie MD, as
 the WF/PC IDT leased some office space at nearby Bowie State University,
 conveniently located just a few miles from Goddard Space Flight Center.
 Various members of the WF/PC IDT spent time there including Jeff Hester, 
-Tod Lauer, Bob Light, Ed Groth, Earl O'Neil, Roger Lynds, Jim Westphal,
+Tod Lauer, Bob Light, Ed Groth, Earl O'Neil, Roger Lynds, Ed Shaya, Jim Westphal,
 and Sandy.
 
 After first light (May 20), several of us would regularly attend the daily 
 briefings at GSFC, led by Joe Ryan. Early images didn't look especially 
 sharp, but most assumed that this was due to a need for collimation/focus
 adjustment using the secondary mirror. Roger Lynds, however, noted in
-one of the daily meetings that the images looked like they had spherical
+one of the early daily meetings that the images looked like they had spherical
 aberration. He was roundly chewed out (which Joe Ryan later apologized for!).
 
 The initial plans for collimation were to use the wavefront sensors, not
@@ -117,9 +117,9 @@ relative to the HST features depending on the location in the field
 of view.
 
 We prepared a mosaic of the coarse focus run images of a star (top panel
-of image to the left), along with simulated
+of image), along with simulated
 images with spherical aberation at corresponding focus positions (bottom panel). These
-were shown to project management at a meeting at GSFC on July 25. I believe
+were shown to project management by me at a meeting at GSFC on July 25. I believe
 that these were the final, absolutely convincing, evidence that convinced
 management that there was a severe, uncorrectable problem, and put all
 efforts to deny this at rest.
@@ -140,7 +140,7 @@ A separate effort was also made to understand the source of the error,
 culminating in the [Allen commission report](https://ntrs.nasa.gov/api/citations/19910003124/downloads/19910003124.pdf), 
 which uncovered an error in the assembly of the reflective null
 corrector that was used to shape the primary mirror. The investigative
-effort also demonstrates multiple failures in management and
+effort also demonstrated multiple failures in management and
 reporting that led to the error going unreported, although there
 was ample evidence that there was a problem!
 
@@ -160,20 +160,35 @@ clusters in the galaxy NGC 1275](https://ui.adsabs.harvard.edu/abs/1992AJ....103
 and some work on the [stellar populations
 of the Galactic bulge](https://ui.adsabs.harvard.edu/abs/1993AJ....106.1826H/abstract). 
 
-I joined the Investigation Definition
-Team of WFPC2 and, after its launch, characterized the performance and
-photometric calibration of the instrument. This was
-published in a pair of papers, [The Performance and Calibration of
-WFPC2 on the Hubble Space Telescope](https://ui.adsabs.harvard.edu/abs/1995PASP..107..156H/abstract) and
-[The Photometric Performance and Calibration of WFPC2](https://ui.adsabs.harvard.edu/abs/1995PASP..107.1065H/abstract). 
+I joined the Investigation Definition Team of WFPC2 led by John
+Trauger at JPL and, after its launch, characterized the performance
+and photometric calibration of the instrument. This was published
+in a pair of papers, [The Performance and Calibration of WFPC2 on
+the Hubble Space
+Telescope](https://ui.adsabs.harvard.edu/abs/1995PASP..107..156H/abstract)
+and [The Photometric Performance and Calibration of
+WFPC2](https://ui.adsabs.harvard.edu/abs/1995PASP..107.1065H/abstract).
 
-I moved on to a faculty position at New Mexico State University, where I taught
-a class on Observational Techniques for many years. The class where I
-I told the story of the HST aberrations and lessons learned was always popular!
+I moved on to a faculty position at New Mexico State University,
+where I taught a course on Observational Techniques for many years.
+One of the lessons I took away from my HST experience was that I
+(and presumably others) had little to no eduction in optics during
+my astronomical education, so I always included a few weeks of basic
+optics in my course (whether that is sufficient, I don't know, as
+students don't seem to absorb material that is not presented over
+an extended period of time).  The class where I I told the story
+of the HST aberrations and lessons learned was always popular!
 
 I was involved with stellar population work in nearby Local Group galaxies 
 for several years, and generated a large archive of HST observations of
-Local Group stellar populations. 
+Local Group stellar populations
+[(Holtzman, Afonso, & Dolphin 2006)](https://ui.adsabs.harvard.edu/abs/2006ApJS..166..534H/abstract).
+[Weisz et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..147W/abstract)
+(also [Weisz et al (2014b)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract) and
+[Weisz et al (2014c)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract))
+used this to derive star formation histories of Local Group galaxies.
+
+
 
 #### WFC3
 
