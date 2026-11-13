@@ -1,4 +1,6 @@
-### The early days of the Hubble Space Telescope
+### Experiences with the Hubble Space Telescope
+
+#### The early days before and just after launch
 
 My involvement with HST began when I was a graduate student at the
 University of California, Santa Cruz. In 1985, after a couple of years of
@@ -116,6 +118,8 @@ that these were the final, absolutely convincing, evidence that convinced
 management that there was a severe, uncorrectable problem, and put all
 efforts to deny this at rest.
 
+#### WF/PC
+
 After that, things turned to trying to understand the impact of the aberration
 on science, and to deconvolution techniques to try to recover higher
 spatial resolution. 
@@ -141,6 +145,8 @@ several of the other instruments. Subsequent instruments all included
 corrective optics, and the diffraction limited performance of HST was
 achieved!
 
+#### WFPC2
+
 On my part, things moved on. We did several science papers with the
 aberrated WF/PC, including an exciting discovery of young globular
 clusters in the galaxy NGC 1275 and some work on the stellar populations
@@ -153,5 +159,9 @@ WFPC2 on the Hubble Space Telescope](https://ui.adsabs.harvard.edu/abs/1995PASP.
 
 I was involved with stellar population work in nearby Local Group galaxies 
 for several years, and generated a large archive of HST observations of
-Local Group stellar populations. I was a member of the Science Oversight
+Local Group stellar populations. 
+
+#### WFC3
+
+I was a member of the Science Oversight
 Committee for the WFC3 that was installed into the HST in 2009.
