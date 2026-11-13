@@ -89,10 +89,21 @@ local group dwarfs.
 
 ###  External galaxies
 
-I am interested in structural properties of galaxies,
-in particular disk galaxies and the nature of bulges; I've been involved
-in both photometric and spectroscopic studies. I've also studied
-properties of galaxies as a function of their environment.
+I am interested in structural properties of galaxies, in particular
+disk galaxies and the nature of bulges, e.g.  [Moorthy et al
+2006](https://ui.adsabs.harvard.edu/abs/2006MNRAS.371..583M/abstract)
+[Courteau et al
+2007](https://ui.adsabs.harvard.edu/abs/2007ApJ...655L..21C/abstract).
+I've been involved in both photometric and spectroscopic studies.
+I've also studied properties of galaxies as a function of their
+environment ([Patiri et al
+2006](https://ui.adsabs.harvard.edu/abs/2006MNRAS.372.1710P/abstract)).
+
+I was involved in a survey of galaxies in the Virgo cluster with
+my friend, colleague, and fellow UCSC student Stephane Courteau
+([Ouellette et al 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...843...74O/abstract),
+[Ouellette et al 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.2356O/abstract)).
+
 
 ### HST/WFPC2 performance and calibration
 
