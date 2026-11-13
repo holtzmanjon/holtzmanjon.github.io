@@ -132,7 +132,7 @@ spatial resolution.
 An issue of the Astrophysical Journal letters was published in 1991
 that included a paper by Burrows, Holtzman et al on [The Imaging Performance
 of the Hubble Space Telescope](https://ui.adsabs.harvard.edu/abs/1991ApJ...369L..21B/abstract), 
-along with several papers discussing impact on sciend and early science results, including
+along with several papers discussing impact on science and early science results, including
 [Stellar Photometry with the Hubble Space Telescope Wide-Field/Planetary Camera: 
 A Progress Report](https://ui.adsabs.harvard.edu/abs/1991ApJ...369L..35H/abstract).
 
