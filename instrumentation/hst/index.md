@@ -73,7 +73,7 @@ that it somehow was not correct.
 
 Things continued for a few weeks. Some of the astronomers suggested
 that aberration diagnosis could be made by taking a wide "focus
-sweep", where different aberrations have very different characters
+sweep", because different aberrations have very different characters
 when looked at through a range of different focal plane locations.
 The engineers were reluctant to move the secondary mirror by a large
 amount, as that would carry the risk that the mirror might get stuck
@@ -109,7 +109,7 @@ clear signature of spherical aberration.  There was a tremendous
 amount of structure in the images, with tendrils, spots, ripples, etc.
 The simulations were able to reproduce these in great detail; they
 arise from diffraction in a strongly aberrated system with a pupil
-function that has a lot of structure; an HST central obscuration with
+function that has a lot of structure: an HST central obscuration with
 a four-legged spider of the HST secondary support and three
 primary mirror support pads, plus a larger
 WF/PC central obscuration with a three-legged spider that moved around
