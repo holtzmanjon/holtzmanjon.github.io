@@ -181,14 +181,33 @@ students don't seem to absorb material that is not presented over
 an extended period of time).  The class where I told the story
 of the HST aberrations and lessons learned was always popular!
 
-I was involved with stellar population work in nearby Local Group galaxies 
-for a couple of decades, and generated a large archive of HST observations of
-Local Group stellar populations
-[(Holtzman, Afonso, & Dolphin 2006)](https://ui.adsabs.harvard.edu/abs/2006ApJS..166..534H/abstract).
+I was involved with HST stellar population work in nearby Local
+Group galaxies with WFPC2 for a couple of decades.  Several papers
+discussed the star formation history of the LMC ([Holtzman et al.
+1997](https://ui.adsabs.harvard.edu/abs/1997AJ....113..656H/abstract),
+[Geha et al.
+1998](https://ui.adsabs.harvard.edu/abs/1998AJ....115.1045G/abstract),
+[Holtzman et al.
+1999](https://ui.adsabs.harvard.edu/abs/1999AJ....118.2262H/abstract), and
+another in Phoenix ([Holtzman et al.
+2000](https://ui.adsabs.harvard.edu/abs/2000AJ....120.3060H/abstract).
+Several other papers discussed stellar populations in the Galactic
+bulge ([Holtzman et al
+1993](https://ui.adsabs.harvard.edu/abs/1993AJ....106.1826H/abstract),
+[Holtzman et al
+1998](https://ui.adsabs.harvard.edu/abs/1998AJ....115.1946H/abstract)).
+These suggested a non-neglible contribution of intermediate age
+stars in the Bulge, although most were not convinced at the time.
+
+A large <a
+href="http://astronomy.nmsu.edu/logphot"> stellar photometry archive </a>
+was constructed from all photometry done by the WFPC2 in the
+Local Group [(Holtzman, Afonso, & Dolphin 2006)](https://ui.adsabs.harvard.edu/abs/2006ApJS..166..534H/abstract).
 [Weisz et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..147W/abstract)
 (also [Weisz et al (2014b)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract) and
 [Weisz et al (2014c)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..148W/abstract))
 used this to derive star formation histories of Local Group galaxies.
+
 
 #### WFC3
 
