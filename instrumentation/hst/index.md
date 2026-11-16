@@ -194,3 +194,11 @@ used this to derive star formation histories of Local Group galaxies.
 I was a member of the Science Oversight
 Committee for the WFC3, led by Bob O'Connell, that was installed into the HST in 2009.
 That had its own excitements, but those are perhaps another story.
+
+
+#### Other HST history resources
+
+- [Allen commission report](https://ntrs.nasa.gov/api/citations/19910003124/downloads/19910003124.pdf) 
+- The Space Telescope, Robert Smith
+- [Not Yet Imagined (Christopher Gainor)](https://science.nasa.gov/mission/hubble/multimedia/e-books/not-yet-imagined-a-study-of-hubble-space-telescope-operations/)[N
+- Life with Hubble, Dave Leckrone
