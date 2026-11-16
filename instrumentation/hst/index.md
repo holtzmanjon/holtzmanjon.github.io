@@ -161,7 +161,8 @@ and some work on the [stellar populations
 of the Galactic bulge](https://ui.adsabs.harvard.edu/abs/1993AJ....106.1826H/abstract). 
 
 I joined the Investigation Definition Team of WFPC2 led by John
-Trauger at JPL and, after its launch, characterized the performance
+Trauger at JPL and, after its launch, and successful demonstration
+of its optical correction, characterized the performance
 and photometric calibration of the instrument. This was published
 in a pair of papers, [The Performance and Calibration of WFPC2 on
 the Hubble Space
@@ -181,7 +182,7 @@ an extended period of time).  The class where I told the story
 of the HST aberrations and lessons learned was always popular!
 
 I was involved with stellar population work in nearby Local Group galaxies 
-for several years, and generated a large archive of HST observations of
+for a couple of decades, and generated a large archive of HST observations of
 Local Group stellar populations
 [(Holtzman, Afonso, & Dolphin 2006)](https://ui.adsabs.harvard.edu/abs/2006ApJS..166..534H/abstract).
 [Weisz et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014ApJ...789..147W/abstract)
@@ -200,5 +201,5 @@ That had its own excitements, but those are perhaps another story.
 
 - [Allen commission report](https://ntrs.nasa.gov/api/citations/19910003124/downloads/19910003124.pdf) 
 - The Space Telescope, Robert Smith
-- [Not Yet Imagined (Christopher Gainor)](https://science.nasa.gov/mission/hubble/multimedia/e-books/not-yet-imagined-a-study-of-hubble-space-telescope-operations/)[N
+- [Not Yet Imagined (Christopher Gainor)](https://science.nasa.gov/mission/hubble/multimedia/e-books/not-yet-imagined-a-study-of-hubble-space-telescope-operations/)
 - Life with Hubble, Dave Leckrone
